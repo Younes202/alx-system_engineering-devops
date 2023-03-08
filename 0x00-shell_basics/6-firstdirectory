@@ -1,3 +1,2 @@
-#!/bin/bash
-sudo mkdir tmp/my_first_directory 
-chmod 777 tmp/my_first_directory
+#!/bin/bash 
+mkdir /tmp/my_first_directory
