@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mkdir tmp/my_first_directory
+sudo mkdir tmp/my_first_directory && chmod +x+u tmp/my_first_directory
